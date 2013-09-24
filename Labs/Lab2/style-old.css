@@ -1,0 +1,17 @@
+body {font-family:verdana; color:black;}
+/*h2{font-family:verdana; color:black;}
+p{font-family:verdana; color:black;}
+li{font-family:verdana; color:black;}
+/*.bands{color:orange;}
+.books{color:blue;}
+.intro{color:blue;}
+.thanks{color: gray;}
+.list{font-family: verdana;}*/
+ul{list-style-type: none; padding:0; }
+ol{list-style-type: none }
+a {text-decoration: none;}
+li a:link {color: #008B8B; background: #E0FFFF;}
+li a:visited {color: #008B8B; background: #E0FFFF;}
+li a:hover {color: white; background: #008B8B;}
+li a:active {color: white; background: #008B8B;}
+#currentlink {color: white; background: #008B8B;}

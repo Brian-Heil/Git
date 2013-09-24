@@ -1,0 +1,13 @@
+body {font-family:verdana;}
+h1,h2,h3,h4{color:darkcyan;}
+ul.menu {list-style-type: none; width: 10cm; padding:0;}
+ul.menu li {background-color: lightcyan;}
+ul.menu li a {font-family: verdana; display: block;}
+ul.menu li a:link, ul.menu li a:visited {text-decoration: none; color:darkcyan;}
+ul.menu li a:hover {background-color: darkcyan; color: white;}
+a {text-decoration: none;}
+/*li a:link {color: #008B8B; background: #E0FFFF;}
+li a:visited {color: #008B8B; background: #E0FFFF;}
+li a:hover {color: white; background: #008B8B;}
+li a:active {color: white; background: #008B8B;}*/
+#currentlink {color: white; background: #008B8B;}
